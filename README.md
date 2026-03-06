@@ -29,7 +29,7 @@ Este proyecto es un programa en Python que solicita datos personales del usuario
 
 - Impresión de todos los datos ingresados junto con el IMC y su clasificación
 
-
+Pues  dentro de las reflexiones que me ha dejado el bootcamp quiero decir que me llevo una excelente experiencia y he mejorado mis conocimientos en este  lenguaje de programación que es tan noble y nos permite hacer muchas cosas 
 ## Autor
 
 Jorge Lopez Miranda
